@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+video {
+    margin-left: 9rem;
+    margin-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.details {
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 2rem;
+}
+
+.Link {
+    text-decoration: none;
+    color: #FFF;
+}
